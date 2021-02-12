@@ -6,3 +6,5 @@ The repository contains:
 - the folder `a_letter` with loaded relevant pages from the dictionary page of $a$
 - file `wordlist.txt` with the list of these words
 - primary construct of the output table `table_words.tsv` with only __ID__ and __words__ filled
+
+There are 694 words for now.
