@@ -1,5 +1,5 @@
 # Abaza-Dictionary-survey
-This is a repository for the project of my MA practice, supervized by D. Ryzhova. 
+This is a repository for the project of my MA practice, supervisor D. Ryzhova. 
 
 The repository contains: 
 - jupyter noteook file `ttabz.ipynb` with general code
